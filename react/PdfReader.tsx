@@ -1,5 +1,4 @@
-import PdfReader from "./components/PdfReader"
+import PdfReader from './components/PdfReader'
 
 export default PdfReader;
-
 

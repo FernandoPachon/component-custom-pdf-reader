@@ -3045,9 +3045,9 @@ iterall@^1.2.2:
   resolved "https://registry.yarnpkg.com/iterall/-/iterall-1.3.0.tgz#afcb08492e2915cbd8a0884eb93a8c94d0d72fea"
   integrity sha512-QZ9qOMdF+QLHxy1QIpUHUU1D5pS2CG2P69LF6L6CPjPYA/XMOmKV3PZpawHoAjHNyB0swdVTRxdYT4tbBbxqwg==
 
-"itgloberspartnercl.pdf-reader@https://fernandopachon--itgloberspartnercl.myvtex.com/_v/private/typings/linked/v1/itgloberspartnercl.pdf-reader@0.0.1+build1669409588/public/@types/itgloberspartnercl.pdf-reader":
+"itgloberspartnercl.pdf-reader@https://fernandopachon--itgloberspartnercl.myvtex.com/_v/private/typings/linked/v1/itgloberspartnercl.pdf-reader@0.0.1+build1669614599/public/@types/itgloberspartnercl.pdf-reader":
   version "0.0.1"
-  resolved "https://fernandopachon--itgloberspartnercl.myvtex.com/_v/private/typings/linked/v1/itgloberspartnercl.pdf-reader@0.0.1+build1669409588/public/@types/itgloberspartnercl.pdf-reader#b66b16d91e363212c1c11c8125d94206a4f12d9e"
+  resolved "https://fernandopachon--itgloberspartnercl.myvtex.com/_v/private/typings/linked/v1/itgloberspartnercl.pdf-reader@0.0.1+build1669614599/public/@types/itgloberspartnercl.pdf-reader#676025f6e163acb5ee34bb6f035f57bf5bf85f82"
 
 jest-changed-files@^25.5.0:
   version "25.5.0"

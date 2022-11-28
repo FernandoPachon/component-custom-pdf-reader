@@ -10,9 +10,7 @@
     "docs": "0.x",
     "store": "0.x"
   },
-  "dependencies": {
-    "vtex.render-runtime": "0.x"
-  },
+  "dependencies": {},
   "registries": [
     "smartcheckout"
   ],
